@@ -14,6 +14,7 @@ Class User Extends CI_Controller
         $this->load->model('User_model');
         $this->load->library('recaptcha');
         $this->load->library('session');
+        $this->load->model('Vehicle_model');
         $this->sanity->secure_requests();
         $this->sanity->secure_headers();
         if(!$this->authentication->loggedin())
@@ -32,6 +33,8 @@ Class User Extends CI_Controller
             $data['token'] = $token;
             $data['admin'] = $this->User_model->user($token);
             $data['bounty_hunters'] = $this->User_model->bounty_hunters();
+            $data['vehicles'] = $this->Vehicle_model->vehicles();
+            $data['deliveries'] = $this->Vehicle_model->delivery();
             $this->load->view('partials/global/header', $data);
             $this->load->view('panel/admin');
             $this->load->view('partials/global/footer');

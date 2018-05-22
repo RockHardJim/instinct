@@ -15,6 +15,7 @@ Class Authentication
         $this->ci->load->database();
         $this->ci->load->library('encrypt');
         $this->ci->load->library('email');
+        $this->ci->load->library('Hub');
         $this->ci->load->library('session');
         $this->ci->load->library('bountyhunter');
         $this->ci->load->helper('url');
