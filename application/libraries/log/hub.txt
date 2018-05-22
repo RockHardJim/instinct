@@ -1,0 +1,3612 @@
+
+Start: 2018-05-10 11:51:55
+File: Auth.php : in Line: 123
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 11:52:32
+File: Auth.php : in Line: 123
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 12:48:08
+File: business.php : in Line: 147
+Autoload: \xmp
+Trying: /lib/xmp.php
+Found: Loading direkt...
+
+Start: 2018-05-10 12:51:29
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 12:54:39
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 13:08:03
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 13:10:14
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 14:13:56
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 14:14:22
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 15:46:05
+File: settings.php : in Line: 20
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 15:46:37
+File: settings.php : in Line: 20
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 15:48:31
+File: settings.php : in Line: 20
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 15:50:25
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 15:51:42
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 15:58:32
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:06:23
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:07:34
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:09:44
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:10:44
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:12:22
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:14:03
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:15:44
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:17:20
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:19:09
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:20:43
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:21:37
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:23:22
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:24:13
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:24:49
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:50:34
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:52:38
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:53:47
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:54:03
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:55:05
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:55:30
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:55:37
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:55:58
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:56:07
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:56:47
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:57:34
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:57:48
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 16:58:44
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:00:06
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:01:12
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:02:37
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:03:08
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:03:54
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:04:43
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:05:17
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:05:34
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:06:27
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:07:56
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:08:35
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:09:34
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:10:09
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:10:30
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:34:44
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 17:41:10
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:00:01
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:00:24
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:23:12
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:36:27
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:45:49
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:47:56
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:49:17
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:50:50
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:51:08
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:56:11
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:56:26
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:56:33
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:56:53
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:58:05
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:58:40
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:58:45
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:58:56
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:59:08
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 18:59:42
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:00:13
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:00:30
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:00:47
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:00:57
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:01:07
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:09:43
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:20:49
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:21:14
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:21:40
+File: User.php : in Line: 215
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:21:46
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:22:32
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:22:47
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:22:57
+File: User.php : in Line: 215
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:23:02
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:23:13
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:23:40
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:23:48
+File: User.php : in Line: 215
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:23:52
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:31:58
+File: User.php : in Line: 215
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:32:02
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:32:36
+File: User.php : in Line: 215
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:32:40
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:34:06
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:34:10
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:34:16
+File: settings_contact.php : in Line: 17
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:34:16
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:34:34
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:34:52
+File: settings_contact.php : in Line: 17
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:34:52
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:38:30
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:38:30
+File: settings_contact.php : in Line: 17
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:38:30
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:38:42
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:38:42
+File: settings_contact.php : in Line: 17
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:38:42
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:39:44
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:39:44
+File: settings_contact.php : in Line: 17
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:39:44
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:39:45
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:39:45
+File: settings_contact.php : in Line: 17
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:39:45
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:43:51
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:43:51
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:43:52
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:43:59
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:43:59
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:44:00
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:44:05
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:44:05
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:44:05
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:44:30
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:44:30
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:44:30
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:44:48
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:44:48
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:44:48
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:44:50
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:44:50
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:44:51
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:45:11
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:45:11
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:45:11
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:45:32
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:45:32
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:45:32
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:45:41
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:45:41
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:45:42
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:46:37
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:46:37
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:46:38
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:46:56
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:46:56
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:46:56
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:47:06
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:47:06
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:47:06
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:49:37
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:49:37
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 19:49:37
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:29:52
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:29:52
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:30:14
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:30:14
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:30:14
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:30:29
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:30:29
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:30:29
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:31:22
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:31:22
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:31:23
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:31:36
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:31:36
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:31:36
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:32:03
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:32:03
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:32:04
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:33:22
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:33:22
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:34:44
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:34:44
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:34:44
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:35:58
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:35:58
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:35:58
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:39:24
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:39:24
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:39:24
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:43:44
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:43:44
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:43:44
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:44:37
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:44:37
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:44:37
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:45:12
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:45:12
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 20:45:12
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:10:48
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:10:48
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:10:48
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:11:03
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:11:03
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:11:20
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:11:20
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:11:20
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:11:56
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:11:56
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:11:56
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:12:18
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:12:18
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:12:18
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:12:30
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:12:30
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:12:30
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:12:45
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:12:45
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:12:46
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:13:04
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:13:04
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:13:04
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:13:45
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:13:45
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:13:45
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:14:13
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:14:13
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:14:13
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:18:00
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:18:00
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-10 21:22:51
+File: Auth.php : in Line: 123
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:41:52
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:41:52
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:42:03
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:42:03
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:42:03
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:42:05
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:42:05
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:42:06
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:42:43
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:42:43
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:42:43
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:42:44
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:42:44
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:42:44
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:44:03
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 11:44:03
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 12:36:17
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 12:36:17
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 12:36:31
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 12:36:31
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 12:36:31
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 12:36:38
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 12:36:38
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-11 12:36:38
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:38:38
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:38:38
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:44:06
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:44:06
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:44:18
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:44:18
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:44:18
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:44:39
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:44:39
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:44:39
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:48:19
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:48:19
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:48:19
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:48:37
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:48:37
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:48:37
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:48:48
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:48:48
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:48:48
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:48:58
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:48:58
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:48:59
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:49:21
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:49:21
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:49:22
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:49:27
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:49:27
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-14 16:49:27
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:16:42
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:16:42
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:16:57
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:16:57
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:16:57
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:17:04
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:17:04
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:17:04
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:24:17
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:24:17
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:24:17
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:24:31
+File: User.php : in Line: 282
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:24:34
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:24:34
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:24:34
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:24:46
+File: User.php : in Line: 282
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:24:50
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:24:50
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:24:50
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:25:15
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:25:15
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:25:15
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:25:39
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:25:39
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:25:39
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:25:55
+File: User.php : in Line: 282
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:26:06
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:26:06
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:26:06
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:26:38
+File: User.php : in Line: 282
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:26:48
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:26:48
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:26:49
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:27:13
+File: User.php : in Line: 282
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:27:24
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:27:24
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:27:24
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:28:50
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:28:50
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:28:50
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:29:41
+File: User.php : in Line: 282
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:29:51
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:29:51
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:29:52
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:30:52
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:30:52
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:30:52
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:31:20
+File: User.php : in Line: 282
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:31:26
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:31:26
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:31:26
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:31:56
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:31:56
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:31:56
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:32:26
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:32:26
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:32:26
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:33:35
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:33:35
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:33:35
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:33:46
+File: User.php : in Line: 282
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:34:04
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:34:04
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:34:04
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:34:20
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:34:20
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:34:20
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:36:23
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:36:23
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:36:23
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:40:15
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:40:15
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:40:15
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:40:27
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:40:27
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:40:28
+File: settings_contact.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:45:44
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:45:44
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:45:44
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:47:10
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:47:10
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:47:10
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:47:19
+File: User.php : in Line: 282
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:47:25
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:47:25
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:47:25
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:49:11
+File: User.php : in Line: 282
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:49:25
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:49:25
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 13:49:25
+File: settings_work.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 14:25:55
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 14:25:55
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 14:27:39
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 14:27:39
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 14:27:39
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 14:41:19
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 14:41:19
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 14:41:20
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 14:42:28
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 14:42:28
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 14:42:28
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:08:56
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:08:56
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:08:56
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:09:22
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:09:22
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:09:22
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:09:40
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:09:40
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:09:40
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:10:01
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:10:01
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:10:01
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:10:25
+File: User.php : in Line: 346
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:10:30
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:10:31
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:10:31
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:12:18
+File: User.php : in Line: 346
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:12:23
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:12:23
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:12:23
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:13:04
+File: User.php : in Line: 346
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:13:08
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:13:08
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:13:09
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:13:29
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:13:29
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:13:29
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:13:58
+File: User.php : in Line: 346
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:14:04
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:14:04
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 15:14:04
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:41:30
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:41:30
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:42:57
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:42:57
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:44:20
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:44:20
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:46:32
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:46:32
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:47:20
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:47:20
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:47:43
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:47:43
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:48:47
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:48:47
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:49:15
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:49:15
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:51:14
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:51:14
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:52:43
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:52:43
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:52:56
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:52:56
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:54:08
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:54:08
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:54:26
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:54:26
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 17:54:26
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 18:09:02
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 18:09:02
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 18:10:46
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 18:10:46
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 18:10:46
+File: settings_account.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 18:11:17
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 18:11:17
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 18:11:18
+File: settings_account.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 18:11:34
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 18:11:34
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 18:11:34
+File: settings_account.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 18:47:59
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 18:47:59
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:01:16
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:01:16
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:01:16
+File: settings_account.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:21:28
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:21:28
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:27:29
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:27:29
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:27:52
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:27:52
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:27:52
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:27:59
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:27:59
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:27:59
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:28:05
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:28:05
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 20:28:05
+File: settings_account.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 21:07:56
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 21:07:56
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 21:07:56
+File: settings_account.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 22:00:24
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 22:00:24
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 22:00:24
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 23:12:11
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 23:12:11
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 23:33:29
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 23:33:29
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-15 23:33:29
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 09:46:17
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 09:46:18
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 10:16:23
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 10:16:23
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 10:16:23
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 10:16:56
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 10:16:56
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 10:16:56
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 10:22:56
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 10:22:56
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 10:22:56
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 10:24:20
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 10:24:20
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 10:24:20
+File: business.php : in Line: 147
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 11:22:20
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 11:22:20
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 11:22:21
+File: settings.php : in Line: 19
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 11:24:22
+File: header.php : in Line: 10
+Autoload: \html_css
+Trying: /lib/html_css.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 11:24:22
+File: header.php : in Line: 69
+Autoload: \file_bin2datauri
+Trying: /lib/file_bin2datauri.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-17 11:24:23
+File: settings_personal.php : in Line: 15
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-19 21:45:12
+File: Authentication.php : in Line: 23
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-19 21:47:56
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-19 22:47:48
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-19 22:48:03
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-19 22:48:42
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-19 22:49:22
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-19 22:49:30
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-19 22:50:02
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-19 23:16:45
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-19 23:16:56
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-19 23:17:10
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 13:45:58
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 13:46:38
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 15:19:04
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 15:19:29
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 15:19:40
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 15:19:47
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 15:55:22
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 16:05:11
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 16:05:54
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 21:33:49
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 21:35:36
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 21:36:28
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 21:38:12
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 21:38:53
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 21:39:02
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 21:40:02
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 21:41:24
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 21:42:45
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 21:45:09
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 21:46:30
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 21:46:56
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 22:51:58
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 23:24:48
+File: Authentication.php : in Line: 91
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 23:24:48
+File: Authentication.php : in Line: 101
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 23:37:39
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 23:40:44
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 23:43:56
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 23:45:00
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 23:45:40
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 23:50:00
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-20 23:50:39
+File: Authentication.php : in Line: 25
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-21 20:47:25
+File: Auth.php : in Line: 54
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:45:12
+File: Auth.php : in Line: 71
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:45:12
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:45:12
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:46:01
+File: Auth.php : in Line: 71
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:46:01
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:46:01
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:47:24
+File: Auth.php : in Line: 71
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:47:24
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:47:24
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:48:21
+File: Auth.php : in Line: 71
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:48:22
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:48:22
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:49:32
+File: Auth.php : in Line: 71
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:49:32
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:49:32
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:50:39
+File: Auth.php : in Line: 71
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:50:39
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:50:39
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:53:21
+File: Auth.php : in Line: 71
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:53:21
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:53:21
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:54:10
+File: Auth.php : in Line: 71
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:54:10
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:54:10
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:58:53
+File: Auth.php : in Line: 71
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:58:53
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 10:58:53
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:00:10
+File: Auth.php : in Line: 65
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:00:10
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:00:10
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:01:45
+File: Auth.php : in Line: 92
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:03:57
+File: Auth.php : in Line: 65
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:03:57
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:03:57
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:04:20
+File: Auth.php : in Line: 65
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:04:20
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:04:20
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:04:30
+File: Auth.php : in Line: 65
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:04:30
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:04:30
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:06:05
+File: Auth.php : in Line: 65
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:06:05
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:06:05
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:06:17
+File: Auth.php : in Line: 65
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:06:17
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:06:17
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:06:26
+File: Auth.php : in Line: 65
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:06:26
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:06:26
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:08:42
+File: Auth.php : in Line: 65
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:08:42
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:08:42
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:40:32
+File: Auth.php : in Line: 65
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:40:32
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:40:32
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 11:57:33
+File: Auth.php : in Line: 65
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 12:35:00
+File: Auth.php : in Line: 65
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 12:35:00
+File: Authentication.php : in Line: 94
+Autoload: \check_email
+Trying: /lib/check_email.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 12:35:00
+File: Authentication.php : in Line: 104
+Autoload: \email_is_disposable
+Trying: /lib/email_is_disposable.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 13:30:44
+File: Auth.php : in Line: 92
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 15:32:47
+File: Auth.php : in Line: 92
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 15:33:52
+File: Auth.php : in Line: 92
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
