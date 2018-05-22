@@ -63,6 +63,24 @@ class User_model extends CI_Model
         }
     }
 
+    public function bountyhunters()
+    {
+        $this->db->select('*');
+        $this->db->from('user');
+        $this->db->where('access_level', 0);
+        $query = $this->db->get();
+
+        if($query->num_rows() > 0)
+        {
+            return $query->result();
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
     public function bounty_profile($token)
     {
         $this->db->select('*');

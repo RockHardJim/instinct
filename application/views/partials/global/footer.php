@@ -17,6 +17,15 @@
 <script src="<?php echo site_url('assets/app-assets/vendors/js/charts/jquery.sparkline.min.js');?>" type="text/javascript"></script>
 <script src="<?php echo site_url('assets/app-assets/vendors/js/extensions/unslider-min.js');?>" type="text/javascript"></script>
 <script src="<?php echo site_url('assets/app-assets/vendors/js/charts/echarts/echarts.js');?>" type="text/javascript"></script>
+<script src="<?php echo site_url('assets/app-assets/vendors/js/extensions/jquery.steps.min.js');?>" type="text/javascript"></script>
+<script src="<?php echo site_url('assets/app-assets/vendors/js/pickers/dateTime/moment-with-locales.min.js');?>"
+        type="text/javascript"></script>
+<script src="<?php echo site_url('assets/app-assets/vendors/js/pickers/daterange/daterangepicker.js');?>"
+        type="text/javascript"></script>
+<script src="<?php echo site_url('assets/app-assets/vendors/js/pickers/pickadate/picker.js');?>" type="text/javascript"></script>
+<script src="<?php echo site_url('assets/app-assets/vendors/js/pickers/pickadate/picker.date.js');?>" type="text/javascript"></script>
+<script src="<?php echo site_url('assets/app-assets/vendors/js/forms/validation/jquery.validate.min.js');?>"
+        type="text/javascript"></script>
 <!-- END PAGE VENDOR JS-->
 <!-- BEGIN STACK JS-->
 <script src="<?php echo site_url('assets/app-assets/js/core/app-menu.js');?>" type="text/javascript"></script>

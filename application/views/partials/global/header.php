@@ -31,6 +31,8 @@
     <link rel="stylesheet" type="text/css" href="<?php echo site_url('assets/app-assets/fonts/simple-line-icons/style.min.css');?>">
     <link rel="stylesheet" type="text/css" href="<?php echo site_url('assets/app-assets/fonts/meteocons/style.min.css');?>">
     <link rel="stylesheet" type="text/css" href="<?php echo site_url('assets/app-assets/css/pages/users.css');?>">
+    <link rel="stylesheet" type="text/css" href="<?php echo site_url('assets/app-assets/vendors/css/pickers/daterange/daterangepicker.css');?>">
+    <link rel="stylesheet" type="text/css" href="<?php echo site_url('assets/app-assets/vendors/css/pickers/pickadate/pickadate.css');?>">
     <!-- END Page Level CSS-->
     <!-- BEGIN Custom CSS-->
     <link rel="stylesheet" type="text/css" href="<?php echo site_url('assets/assets/css/style.css');?>">

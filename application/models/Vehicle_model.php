@@ -17,10 +17,10 @@ class Vehicle_model extends CI_Model
 
     public function lookup_vehicle($token)
     {
-        $this->ci->db->select('*');
-        $this->ci->db->from('vehicles');
-        $this->ci->db->where('token', $token);
-        $query = $this->ci->db->get();
+        $this->db->select('*');
+        $this->db->from('vehicles');
+        $this->db->where('token', $token);
+        $query = $this->db->get();
 
         if($query->num_rows() > 0)
         {
@@ -36,9 +36,28 @@ class Vehicle_model extends CI_Model
     public function deliveries($token)
     {
         $this->db->select('*');
-        $this->ci->db->from('deliveries');
-        $this->ci->db->where('token', $token);
-        $query = $this->ci->db->get();
+        $this->db->from('deliveries');
+        $this->db->where('token', $token);
+        $query = $this->db->get();
+
+        if($query->num_rows() > 0)
+        {
+            return $query->result();
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+
+    public function vehicle_deliveries($token)
+    {
+        $this->db->select('*');
+        $this->db->from('deliveries');
+        $this->db->where('vehicle_token', $token);
+        $query = $this->db->get();
 
         if($query->num_rows() > 0)
         {
@@ -54,9 +73,9 @@ class Vehicle_model extends CI_Model
     public function deliveries_profile_location($token)
     {
         $this->db->select('*');
-        $this->ci->db->from('delivery_profile_location');
-        $this->ci->db->where('token', $token);
-        $query = $this->ci->db->get();
+        $this->db->from('delivery_profile_location');
+        $this->db->where('token', $token);
+        $query = $this->db->get();
 
         if($query->num_rows() > 0)
         {

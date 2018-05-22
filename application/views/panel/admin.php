@@ -48,10 +48,6 @@
             </li>
             <li class=" nav-item"><a href="<?php echo site_url('user/panel'); ?>"><i class="ft-home"></i><span class="menu-title" data-i18n="">Dashboard</span></a>
             </li>
-            <li class=" nav-item"><a href="<?php echo site_url('user/vehicles'); ?>"><i class="icon-speedometer"></i><span class="menu-title" data-i18n="">Vehicles</span></a>
-            </li>
-            <li class=" nav-item"><a href="<?php echo site_url('user/bountyhunters'); ?>"><i class="icon-user"></i><span class="menu-title" data-i18n="">Security Personel</span></a>
-            </li>
 
             <li class=" navigation-header">
                 <span>Apps</span><i class=" ft-minus" data-toggle="tooltip" data-placement="right"
@@ -196,7 +192,6 @@
                 </div>
             </div>
 
-
             <div class="row">
                 <div class="col-12">
                     <div class="card">
@@ -205,8 +200,11 @@
                                 <?php
                                 if(!empty($deliveries))
                                 {
+                                    //die(var_dump($deliveries[0]->vehicle_token));
                                     $vehicle = $this->Vehicle_model->lookup_vehicle($deliveries[0]->vehicle_token);
                                     $van_location = $this->Vehicle_model->deliveries_profile_location($deliveries[0]->token);
+
+
 
                                 ?>
                                 <div class="row">
@@ -232,12 +230,87 @@
                                     </div>
                                     <div class="col-xl-3 col-lg-6 col-md-12 text-center clearfix">
                                         <h6 class="pt-1">
-                                            <span class="icon-clock"></span> 56:55 Hrs</h6>
+                                            <a href="<?php echo site_url('delivery/overview/'.$deliveries[0]->token); ?>"><button id="submit" class="btn btn-outline-primary btn-block"><i class="ft-unlock"></i>View Dashboard</button></a>
                                         <p>Track Delivery</p>
                                     </div>
                                 </div>
                                 <?php } ?>
+                                There are currently no dispatched jobs running
                             </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-xl-4 col-lg-12 col-md-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <h4 class="card-title">Bounty Hunters</h4>
+                            <a class="heading-elements-toggle"><i class="fa fa-ellipsis-v font-medium-3"></i></a>
+                            <div class="heading-elements">
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            <?php
+                            if(!empty($bounty_hunters[0]))
+                            {
+                                $bounty_hunter_profile = $this->User_model->bounty_profile($bountyhunters[0]->token);
+                            }
+                            ?>
+                            <div id="friends-activity" class="media-list height-400 position-relative">
+                                <a href="<?php site_url('hunter/profile/'.$bountyhunters[0]->token) ?>" class="media border-0">
+                                    <div class="media-body w-100">
+                                        <h5 class="list-group-item-heading"><?php echo $this->encrypt->decode($bountyhunters[0]->name) . ' ' .  $this->encrypt->decode($bountyhunters[0]->surname);?>
+                                            <span class="font-medium-4 float-right">Rank: <?php echo $bounty_hunter_profile[0]->rank; ?></span>
+                                        </h5>
+                                        <p class="list-group-item-text mb-0">
+                                            <span class="badge badge-success">Bounty Collected</span>
+                                            <span class="badge badge-warning ml-1"><?php echo $bounty_hunter_profile[0]->points; ?></span>
+                                        </p>
+                                    </div>
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+
+
+
+                <div class="col-xl-8 col-lg-12 col-md-12">
+                    <div class="card">
+                        <div class="card-header">
+                            <h4 class="card-title">Vehicles</h4>
+                            <a class="heading-elements-toggle"><i class="fa fa-ellipsis-v font-medium-3"></i></a>
+                            <div class="heading-elements">
+                            </div>
+                        </div>
+                        <div class="card-content">
+                            <?php
+                            if(!empty($vehicles))
+                            {
+                                $vehicle_deliveries = $this->Vehicle_model->vehicle_deliveries($vehicles[0]->token);
+
+                            ?>
+                            <div id="friends-activity" class="media-list height-400 position-relative">
+                                <a href="" class="media border-0">
+                                    <div class="media-body w-100">
+                                        <h5 class="list-group-item-heading"><?php echo $vehicles[0]->license_plate; ?>
+                                            <span class="font-medium-4 float-right">Code: <?php echo $vehicles[0]->vehicle_code; ?></span>
+                                        </h5>
+                                        <p class="list-group-item-text mb-0">
+                                            <span class="badge badge-success">Deliveries Assigned</span>
+                                            <span class="badge badge-warning ml-1"><?php echo count($vehicle_deliveries[0]); ?></span>
+                                        </p>
+                                    </div>
+                                </a>
+
+                            </div>
+                            <?php
+                            }
+                            ?>
+                            <h5 class="list-group-item-heading">There are currently no vehicles registered on the platform</h5>
                         </div>
                     </div>
                 </div>

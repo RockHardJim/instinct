@@ -33,6 +33,7 @@ Class User Extends CI_Controller
             $data['token'] = $token;
             $data['admin'] = $this->User_model->user($token);
             $data['bounty_hunters'] = $this->User_model->bounty_hunters();
+            $data['bountyhunters'] = $this->User_model->bountyhunters();
             $data['vehicles'] = $this->Vehicle_model->vehicles();
             $data['deliveries'] = $this->Vehicle_model->delivery();
             $this->load->view('partials/global/header', $data);
@@ -48,5 +49,32 @@ Class User Extends CI_Controller
             $this->load->view('panel/bounty-hunter');
             $this->load->view('partials/global/footer');
         }
+    }
+
+    public function add_vehicle()
+    {
+        $token = $this->authentication->gettoken($this->encrypt->decode($this->session->userdata('token')));
+
+        if(!$this->User_model->bounty_hunter($token))
+        {
+            $data['token'] = $token;
+            $data['admin'] = $this->User_model->user($token);
+            $data['bounty_hunters'] = $this->User_model->bounty_hunters();
+            $data['bountyhunters'] = $this->User_model->bountyhunters();
+            $data['vehicles'] = $this->Vehicle_model->vehicles();
+            $data['deliveries'] = $this->Vehicle_model->delivery();
+            $this->load->view('partials/global/header', $data);
+            $this->load->view('panel/vehicle/register-vehicle');
+            $this->load->view('partials/global/footer');
+        }
+        else
+        {
+            redirect('user/panel');
+        }
+    }
+
+    public function do_add_vehicle()
+    {
+
     }
 }
