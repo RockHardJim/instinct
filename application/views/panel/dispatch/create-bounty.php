@@ -177,12 +177,14 @@
                 else
                 {
                     swal("Yippie!", callback.message , "success");
+                    $("#submit").html('<span>Create Bounty</span>');
                 }
             },
 
             error : function()
             {
                 swal("Darn!", "We are having issues connecting to the server please try again after reloading this page", "error");
+                $("#submit").html('<span>Create Bounty</span>');
                 setTimeout("location.reload(true);", 3000);
             }
         });

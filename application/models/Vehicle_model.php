@@ -128,4 +128,56 @@ class Vehicle_model extends CI_Model
             return false;
         }
     }
+
+    public function create_bounty($amount, $level)
+    {
+        $data = array(
+            'token' => md5($level.$amount),
+            'class' => $level,
+            'amount' => $amount
+        );
+        $this->db->insert('bounty', $data);
+    }
+
+    public function getbounties()
+    {
+        $this->db->select('*');
+        $this->db->from('bounty');
+        $query = $this->db->get();
+
+        if($query->num_rows() > 0)
+        {
+            return $query->result();
+            return true;
+        }
+        else
+        {
+            return false;
+        }
+    }
+
+    public function create_delivery($level, $amount, $vehicle_token, $bounty_token, $destination_latitude, $destination_longitude)
+    {
+        $data = array(
+            'token' => md5($level.$amount.$vehicle_token.$bounty_token),
+            'level' => $level,
+            'amount' => $amount,
+            'vehicle_token' => $vehicle_token,
+            'bounty_token' => $bounty_token,
+            'destination_latitude' => $destination_latitude,
+            'destination_longitude' => $destination_longitude
+        );
+        $this->db->insert('deliveries', $data);
+
+        $delivery_location = array(
+            'token' => $data['token']
+        );
+        $this->db->insert('delivery_profile_location', $delivery_location);
+        return $data['token'];
+    }
+
+    public function delivery_security()
+    {
+
+    }
 }
