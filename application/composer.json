@@ -6,6 +6,7 @@
         "giggsey/libphonenumber-for-php": "^8.9",
         "lcobucci/jwt": "^3.2",
         "rych/phpass": "^2.0",
-        "mashape/unirest-php": "^3.0"
+        "mashape/unirest-php": "^3.0",
+        "guzzle/http": "^3.9"
     }
 }

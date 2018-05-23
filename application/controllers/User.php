@@ -75,6 +75,35 @@ Class User Extends CI_Controller
 
     public function do_add_vehicle()
     {
+        $this->form_validation->set_rules('vehicle_code', 'Serial Number', 'required');
+        $this->form_validation->set_rules('armour_level', 'Armour Level', 'required');
+        $this->form_validation->set_rules('name', 'Name', 'required');
+        $this->form_validation->set_rules('license_plate', 'License Plate', 'required');
 
+        if($this->form_validation->run() == FALSE)
+        {
+            $response = array(
+                'status' => 'error',
+                'message' => 'Hi, please insure you have properly filled in your textboxes'
+            );
+
+            echo json_encode($response, JSON_PRETTY_PRINT);
+        }
+        else
+        {
+            $vehicle_code = 'ITWeb18-'.Hub::string_clean($this->security->xss_clean($this->input->post('vehicle_code')));
+            $armour_level = Hub::string_clean($this->security->xss_clean($this->input->post('armour_level')));
+            $name = Hub::string_clean($this->security->xss_clean($this->input->post('name')));
+            $license_plate = Hub::string_clean($this->security->xss_clean($this->input->post('license_plate')));
+            $this->Vehicle_model->register_vehicle($vehicle_code, $armour_level, $name, $license_plate);
+
+            $response = array(
+                'status' => 'success',
+                'message' => 'Hi, you have succesfully registered a new vehicle you may now add  deliveries and bounties'
+            );
+
+            echo json_encode($response, JSON_PRETTY_PRINT);
+        }
+        
     }
 }

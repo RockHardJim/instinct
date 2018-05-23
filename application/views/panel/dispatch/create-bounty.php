@@ -123,36 +123,26 @@
                         <div class="card border-grey border-lighten-3 px-1 py-1 m-0">
                             <div class="card-header border-0">
                                 <h6 class="card-subtitle line-on-side text-muted text-center font-small-3 pt-2">
-                                    <span>Vehicle Registration</span>
+                                    <span>Create Bounty</span>
                                 </h6>
                             </div>
                             <div class="card-content">
                                 <div class="card-body">
-                                    <?php echo form_open('user/do_add_vehicle',' id="vehicle" class="form-horizontal" novalidate'); ?>
-                                    <fieldset class="form-group position-relative has-icon-left">
-                                        <input type="text" class="form-control" name="vehicle_code" id="vehicle_code" placeholder="Serial Number"
-                                               required>
-
-                                    </fieldset>
+                                    <?php echo form_open('dispatch/dobounty',' id="bounty" class="form-horizontal" novalidate'); ?>
 
                                     <fieldset class="form-group position-relative has-icon-left">
-                                        <input type="text" class="form-control" name="armour_level" id="armour_level" placeholder="Armour Level"
+                                        <input type="text" class="form-control" name="amount" id="amount" placeholder="Amount"
                                                required>
                                     </fieldset>
 
                                     <fieldset class="form-group position-relative has-icon-left">
-                                        <input type="text" class="form-control" name="name" id="name" placeholder="Name"
-                                               required>
-                                    </fieldset>
-
-                                    <fieldset class="form-group position-relative has-icon-left">
-                                        <input type="text" class="form-control" name="license_plate" id="license_plate" placeholder="License Plate"
+                                        <input type="text" class="form-control" name="level" id="level" placeholder="Security Level"
                                                required>
                                     </fieldset>
 
 
                                     </form>
-                                    <button id="submit" onclick="register_vehicle();" class="btn btn-outline-primary btn-block">Register Vehicle</button>
+                                    <button id="submit" onclick="register_bounty();" class="btn btn-outline-primary btn-block">Create Bounty</button>
                                 </div>
                             </div>
                         </div>
@@ -163,15 +153,14 @@
     </div>
 </div>
 
-
 <script type="text/javascript">
-    function register_vehicle()
+    function register_bounty()
     {
-        var data = $("#vehicle").serialize();
+        var data = $("#bounty").serialize();
 
         $.ajax({
             type : 'POST',
-            url : '<?=site_url("user/do_add_vehicle");?>',
+            url : '<?=site_url("dispatch/dobounty");?>',
             data : data,
 
             beforeSend : function(){
@@ -183,7 +172,7 @@
                 if(callback.status == "error")
                 {
                     swal("Darn!", callback.message , "error");
-                    $("#submit").html('<span>Register Vehicle</span>');
+                    $("#submit").html('<span>Create Bounty</span>');
                 }
                 else
                 {

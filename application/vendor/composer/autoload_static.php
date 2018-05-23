@@ -27,6 +27,7 @@ class ComposerStaticInitef31be758759562d01ac6bd55393bbcd
             'Symfony\\Polyfill\\Php70\\' => 23,
             'Symfony\\Polyfill\\Mbstring\\' => 26,
             'Symfony\\Component\\HttpFoundation\\' => 33,
+            'Symfony\\Component\\EventDispatcher\\' => 34,
         ),
         'R' => 
         array (
@@ -133,6 +134,10 @@ class ComposerStaticInitef31be758759562d01ac6bd55393bbcd
         'Symfony\\Component\\HttpFoundation\\' => 
         array (
             0 => __DIR__ . '/..' . '/symfony/http-foundation',
+        ),
+        'Symfony\\Component\\EventDispatcher\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/symfony/event-dispatcher',
         ),
         'Ramsey\\Uuid\\' => 
         array (
@@ -402,6 +407,25 @@ class ComposerStaticInitef31be758759562d01ac6bd55393bbcd
             'Phpass' => 
             array (
                 0 => __DIR__ . '/..' . '/rych/phpass/library',
+            ),
+        ),
+        'G' => 
+        array (
+            'Guzzle\\Stream' => 
+            array (
+                0 => __DIR__ . '/..' . '/guzzle/stream',
+            ),
+            'Guzzle\\Parser' => 
+            array (
+                0 => __DIR__ . '/..' . '/guzzle/parser',
+            ),
+            'Guzzle\\Http' => 
+            array (
+                0 => __DIR__ . '/..' . '/guzzle/http',
+            ),
+            'Guzzle\\Common' => 
+            array (
+                0 => __DIR__ . '/..' . '/guzzle/common',
             ),
         ),
     );

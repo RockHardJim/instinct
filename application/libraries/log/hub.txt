@@ -3640,3 +3640,39 @@ File: Auth.php : in Line: 92
 Autoload: \string_clean
 Trying: /lib/string_clean.php
 Found: Loading from selected folder name...
+
+Start: 2018-05-22 21:11:51
+File: User.php : in Line: 94
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 21:14:43
+File: User.php : in Line: 94
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 21:20:53
+File: User.php : in Line: 94
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 21:48:13
+File: Auth.php : in Line: 92
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-22 23:24:30
+File: Auth.php : in Line: 92
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...
+
+Start: 2018-05-23 01:51:23
+File: Auth.php : in Line: 92
+Autoload: \string_clean
+Trying: /lib/string_clean.php
+Found: Loading from selected folder name...

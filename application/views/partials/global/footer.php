@@ -5,7 +5,7 @@
         <span class="float-md-right d-block d-md-inline-block d-none d-lg-block">Hand-crafted & Made with <i class="ft-heart pink"></i></span>
     </p>
 </footer>
-<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCHHSf91vZp3cAHmhvGbxLk_y4NRDSn59s" type="text/javascript"></script>
+<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBuiD7HZ5uOxohjyqGOiU-T39JgC29XgH8" type="text/javascript"></script>
 <script src="<?php echo site_url('assets/app-assets/vendors/js/vendors.min.js');?>" type="text/javascript"></script>
 <!-- BEGIN VENDOR JS-->
 <!-- BEGIN PAGE VENDOR JS-->

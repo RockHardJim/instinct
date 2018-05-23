@@ -12,7 +12,14 @@ class Vehicle_model extends CI_Model
 
     public function register_vehicle($vehicle_code, $level, $name, $license_plate)
     {
-
+        $data = array(
+            'token' => md5($name.$vehicle_code.$level.$license_plate),
+            'vehicle_code' => $vehicle_code,
+            'level' => $level,
+            'name' => $name,
+            'license_plate' => $license_plate
+        );
+        $this->db->insert('vehicles', $data);
     }
 
     public function lookup_vehicle($token)

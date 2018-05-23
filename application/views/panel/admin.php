@@ -158,11 +158,11 @@
                                     <div class="my-1 text-center">
                                         <div class="card-header mb-2 pt-0">
                                             <h5 class="warning">Vehicles Registered</h5>
-                                            <h3 class="font-large-2 text-bold-200"><?php echo count($vehicles[0]); ?>
+                                            <h3 class="font-large-2 text-bold-200"><?php echo count($vehicles); ?>
                                             </h3>
                                         </div>
                                         <div class="card-content">
-                                            <input type="text" value="<?php echo count($vehicles[0]); ?>" class="knob hide-value responsive angle-offset" data-angleOffset="20"
+                                            <input type="text" value="<?php echo count($vehicles); ?>" class="knob hide-value responsive angle-offset" data-angleOffset="20"
                                                    data-thickness=".15" data-linecap="round" data-width="130"
                                                    data-height="130" data-inputColor="#BABFC7" data-readOnly="true"
                                                    data-fgColor="#FFA87D" data-knob-icon="icon-speedometer">
@@ -234,8 +234,12 @@
                                         <p>Track Delivery</p>
                                     </div>
                                 </div>
-                                <?php } ?>
+                                <?php }
+                                else
+                                {
+                                ?>
                                 There are currently no dispatched jobs running
+                                <?php } ?>
                             </div>
                         </div>
                     </div>
@@ -256,7 +260,7 @@
                             if(!empty($bounty_hunters[0]))
                             {
                                 $bounty_hunter_profile = $this->User_model->bounty_profile($bountyhunters[0]->token);
-                            }
+
                             ?>
                             <div id="friends-activity" class="media-list height-400 position-relative">
                                 <a href="<?php site_url('hunter/profile/'.$bountyhunters[0]->token) ?>" class="media border-0">
@@ -272,6 +276,11 @@
                                 </a>
 
                             </div>
+                            <?php }
+                            else
+                            {?>
+                                <h5 class="list-group-item-heading">There are currently no bounty hunters registered on the platform</h5>
+                            <?php } ?>
                         </div>
                     </div>
                 </div>
@@ -287,30 +296,34 @@
                             </div>
                         </div>
                         <div class="card-content">
-                            <?php
-                            if(!empty($vehicles))
-                            {
-                                $vehicle_deliveries = $this->Vehicle_model->vehicle_deliveries($vehicles[0]->token);
+                                    <div id="friends-activity" class="media-list height-400 position-relative">
+                                        <?php
+                                        if(!empty($vehicles)) {
+                                        $vehicle_deliveries = $this->Vehicle_model->vehicle_deliveries($vehicles[0]->token);
+                                        foreach ($vehicles as $vehicle) {
+                                        ?>
+                                        <a href="" class="media border-0">
+                                            <div class="media-body w-100">
+                                                <h5 class="list-group-item-heading"><?php echo $vehicle->license_plate; ?>
+                                                    <span class="font-medium-4 float-right">Type: <?php echo $vehicle->name; ?></span>
+                                                </h5>
+                                                <p class="list-group-item-text mb-0">
+                                                    <span class="badge badge-success">Deliveries Assigned</span>
+                                                    <span class="badge badge-warning ml-1"><?php echo count($vehicle_deliveries[0]); ?></span>
+                                                </p>
+                                            </div>
+                                        </a>
+                                            <?php
+                                        }
+                                        }
+                                        else
+                                        {
+                                            ?>
+                                            <h5 class="list-group-item-heading">There are currently no vehicles registered on the platform</h5>
+                                        <?php } ?>
 
-                            ?>
-                            <div id="friends-activity" class="media-list height-400 position-relative">
-                                <a href="" class="media border-0">
-                                    <div class="media-body w-100">
-                                        <h5 class="list-group-item-heading"><?php echo $vehicles[0]->license_plate; ?>
-                                            <span class="font-medium-4 float-right">Code: <?php echo $vehicles[0]->vehicle_code; ?></span>
-                                        </h5>
-                                        <p class="list-group-item-text mb-0">
-                                            <span class="badge badge-success">Deliveries Assigned</span>
-                                            <span class="badge badge-warning ml-1"><?php echo count($vehicle_deliveries[0]); ?></span>
-                                        </p>
                                     </div>
-                                </a>
 
-                            </div>
-                            <?php
-                            }
-                            ?>
-                            <h5 class="list-group-item-heading">There are currently no vehicles registered on the platform</h5>
                         </div>
                     </div>
                 </div>
