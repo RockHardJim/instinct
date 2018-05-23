@@ -136,8 +136,8 @@
                                     </fieldset>
 
                                     <fieldset class="form-group position-relative">
-                                        <select class="form-control" id="basicSelect">
-                                            <option name="vehicle">Select Vehicle</option>
+                                        <select name="vehicle" class="form-control" id="basicSelect">
+                                            <option >Select Vehicle</option>
                                             <?php
                                             foreach($vehicles as $vehicle)
                                             {
@@ -148,8 +148,8 @@
                                     </fieldset>
 
                                     <fieldset class="form-group position-relative">
-                                        <select class="form-control" id="basicSelect">
-                                            <option name="bounty">Select Bounty</option>
+                                        <select name="bounty" class="form-control" id="basicSelect">
+                                            <option >Select Bounty</option>
                                             <?php
                                             foreach($bounties as $bounty)
                                             {

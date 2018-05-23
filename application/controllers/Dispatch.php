@@ -8,6 +8,7 @@ Class Dispatch Extends CI_Controller
         $this->load->library('encrypt');
         $this->load->library('authentication');
         $this->load->library('sanity');
+        $this->load->library('email');
         $this->load->library('Hub');
         $this->load->library('form_validation');
         $this->load->helper('url');
@@ -18,7 +19,7 @@ Class Dispatch Extends CI_Controller
         $this->sanity->secure_requests();
         $this->sanity->secure_headers();
         if (!$this->authentication->loggedin()) {
-            redirect('auth/login');
+            //redirect('auth/login');
         }
     }
 
@@ -95,6 +96,12 @@ Class Dispatch Extends CI_Controller
 
     }
 
+    public function qr($token)
+    {
+        $b64 = base64_encode(Hub::image_qrcode($token));
+        echo '<img src="data:image/png;base64,'.$b64.'"/>';
+    }
+
     public function doschedule()
     {
         $this->form_validation->set_rules('amount', 'Amount', 'required');
@@ -123,16 +130,24 @@ Class Dispatch Extends CI_Controller
             $destination_latitude = Hub::string_clean($this->security->xss_clean($this->input->post('latitude')));
 
             $token = $this->Vehicle_model->create_delivery($level, $amount, $vehicle_token, $bounty_token, $destination_latitude, $destination_longitude);
-            $users = $this->User_model->bounty_hunters();
+            $users = $this->User_model->bountyhunters();
+            $profile = $this->User_model->bounty_hunter($users[0]->token);
 
             foreach($users as $user)
             {
+                $this->Vehicle_model->delivery_security($token, $users[0]->token, $profile[0]->latitude, $profile[0]->longitude);
                 $this->email->from('info@instict.co', 'QR CODE');
                 $this->email->to($this->encrypt->decode($user->email));
                 $this->email->subject('Instinct QR CODE');
-                $this->email->message('Hi you have been selected as a guardian for a delivery please click the following link to generate your access code '.site_url('dispatch/qr'.$token));
+                $this->email->message('Hi you have been selected as a guardian for a delivery please click the following link to generate your access code '.site_url('dispatch/qr/'.$token));
                 $this->email->send();
             }
+            $response = array(
+                'status' => 'success',
+                'message' => 'Hi, succesfully initialized delivery'
+            );
+
+            echo json_encode($response, JSON_PRETTY_PRINT);
 
 
         }

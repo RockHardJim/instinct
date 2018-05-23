@@ -223,14 +223,14 @@
                                             <div class="progress-bar bg-success" role="progressbar" style="width: 45%" aria-valuenow="<?php echo Hub::geo_distance($van_location[0]->latitude,$van_location[0]->longitude,$deliveries[0]->destination_latitude,$deliveries[0]->destination_longitude,'k', 0); ?>"
                                                  aria-valuemin="0" aria-valuemax="100"></div>
                                         </div>
-                                        <h6 class="text-bold-500 mt-1 mb-0"><?php echo Hub::geo_distance($van_location[0]->latitude,$van_location[0]->longitude,$deliveries[0]->destination_latitude,$deliveries[0]->destination_longitude,'k', 0); ?></h6>
+                                        <h6 class="text-bold-500 mt-1 mb-0"><?php echo Hub::geo_distance($van_location[0]->latitude,$van_location[0]->longitude,$deliveries[0]->destination_latitude,$deliveries[0]->destination_longitude,'k', 0); ?> Km</h6>
                                     </div>
                                     <div class="col-xl-3 col-lg-6 col-md-12 border-right-blue-grey border-right-lighten-5 clearfix py-2 text-center">
                                         <div id="fitness-stats"></div>
                                     </div>
                                     <div class="col-xl-3 col-lg-6 col-md-12 text-center clearfix">
                                         <h6 class="pt-1">
-                                            <a href="<?php echo site_url('delivery/overview/'.$deliveries[0]->token); ?>"><button id="submit" class="btn btn-outline-primary btn-block"><i class="ft-unlock"></i>View Dashboard</button></a>
+                                            <a href="<?php echo site_url('overview/overview/'.$deliveries[0]->token); ?>"><button id="submit" class="btn btn-outline-primary btn-block"><i class="ft-unlock"></i>View Dashboard</button></a>
                                         <p>Track Delivery</p>
                                     </div>
                                 </div>

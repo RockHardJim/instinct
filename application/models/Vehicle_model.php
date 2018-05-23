@@ -176,8 +176,14 @@ class Vehicle_model extends CI_Model
         return $data['token'];
     }
 
-    public function delivery_security()
+    public function delivery_security($token, $hunter_token, $latitude, $longitude)
     {
-
+        $data = array(
+            'token' => $token,
+            'hunter_token' => $hunter_token,
+            'latitude' => $latitude,
+            'longitude' => $longitude
+        );
+        $this->db->insert('delivery_profile_security', $data);
     }
 }
